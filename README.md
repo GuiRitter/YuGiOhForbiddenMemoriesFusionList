@@ -10,14 +10,14 @@ Consider that every fusion is in the form X + Y = Z. The fusion list is in the f
 = Z1
 + Y2
 = Z2
-⋮
+  ⋮
 ----
   X2
 + Y1
 = Z3
 + Y2
 = Z4
-⋮
+  ⋮
 ```
 
 As I wrongly knew, know that it is _not_ legal to own a PlayStation's BIOS, even if you do own a PlayStation. Fortunately, there's an emulator called PCSX-Reloaded (PCSX-R) that doesn't need a BIOS, so it's perfectly legal to play emulated PlayStation games, as long as you own the games themselves.
