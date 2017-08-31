@@ -6,7 +6,6 @@ Consider that every fusion is in the form X + Y = Z. The fusion list is in the f
 
 <div>
   X1<br>
-----<br>
 + Y1<br>
 = Z1<br>
 + Y2<br>
@@ -14,7 +13,6 @@ Consider that every fusion is in the form X + Y = Z. The fusion list is in the f
 ⋮<br>
 ----<br>
   X2<br>
-----<br>
 + Y1<br>
 = Z3<br>
 + Y2<br>
