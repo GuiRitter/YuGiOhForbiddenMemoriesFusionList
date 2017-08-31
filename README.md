@@ -4,21 +4,20 @@ Yes. 722 cards, 521 284 possible combinations (considering non commutativity).
 
 Consider that every fusion is in the form X + Y = Z. The fusion list is in the following format:
 
-<div>
-  X1<br>
-+ Y1<br>
-= Z1<br>
-+ Y2<br>
-= Z2<br>
-⋮<br>
-----<br>
-  X2<br>
-+ Y1<br>
-= Z3<br>
-+ Y2<br>
-= Z4<br>
-⋮<br>
-</div>
-(I ought to improve the formatting here, sorry)
+```
+  X1
++ Y1
+= Z1
++ Y2
+= Z2
+⋮
+----
+  X2
++ Y1
+= Z3
++ Y2
+= Z4
+⋮
+```
 
-As I wrongly knew, knoww that it is _not_ legal to own a PlayStation's BIOS, even if you do own a PlayStation. Fortunately, there's an emulator called PCSX-Reloaded (PCSX-R) that doesn't need a BIOS, so it's perfectly legal to play emulated PlayStation games, as long as you own the games themselves.
+As I wrongly knew, know that it is _not_ legal to own a PlayStation's BIOS, even if you do own a PlayStation. Fortunately, there's an emulator called PCSX-Reloaded (PCSX-R) that doesn't need a BIOS, so it's perfectly legal to play emulated PlayStation games, as long as you own the games themselves.
